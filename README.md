@@ -1,2 +1,1 @@
-# inventaris_go
-Invetaris lab
+# crud_go
